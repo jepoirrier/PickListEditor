@@ -1,0 +1,12 @@
+VERSION 0.2 (July 28th, 2007)
+-----------------------------
+
+- Added a table of spots on the right of the window
+- Added the opportunity to edit the spot (double click on a cell and apply changes)
+- Completely documented code (see JavaDoc)
+- Added an example of picklist in the code archive
+
+VERSION 0.1 (July 26th, 2007)
+-------------------------------
+
+- Original release
