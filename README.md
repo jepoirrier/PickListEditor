@@ -4,7 +4,7 @@
 
 When you work with 2D gel electrophoresis in proteomics, you finally get a gel with proteins inside. Those proteins are somhow labelled and the gel can be scanned (like when you scan a paper) and you got an image with spots representing those proteins (see figure below). After spot detection (green dots in the figure below), analysis and comparison between experimental conditions, you get a list of interesting spots you would like to identify. These spots are represented by yellow circles in the figure below.
 
-[Image here]
+[screenshot]: https://raw.githubusercontent.com/jepoirrier/PickListEditor/master/screenshots/gel-example.jpg "Example of a gel image from a 2D gel electrophoresis experiment. Proteins are separated horizontally following their isoelectric point (electrical charge), between pH 4 and 7. Proteins are separated vertically following their molecular weight (heavier proteins on top, lighter proteins in the bottom).Spots automatically detected by software (DeCyder) are marked by green dots. Interesting spots have a yellow circle. Some of the proteins contained in thoses spots are already identified; in that case, the spot also has a label."
 
 Proteins are separated horizontally following their isoelectric point (electrical charge), between pH 4 and 7. Proteins are separated vertically following their molecular weight (heavier proteins on top, lighter proteins in the bottom). Spots automatically detected by software (DeCyder) are marked by green dots. Interesting spots have a yellow circle. Some of the proteins contained in thoses spots are already identified; in that case, the spot also has a label.
 
